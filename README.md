@@ -1,11 +1,11 @@
-# Hola, mi nombre es Carlos Longarela
-## Bienvenidos a mi perfil personal de Github 👋
+# Hi, my name is Carlos Longarela
+## Welcome to my personal Github profile 👋
 
 
-- 🔭 Actualmente trabajando en Codeable
-- 🌱 Aprendiendo cada día un poco más de Vanilla JS, React y CSS, además de perfeccionado PHP
-- 👯 Intento aprender un poco de WordPress que es a lo que me dedico
-- 💬 Mira mis herramientas para el trabajo diario: https://github.com/CarlosLongarela/uses
+- 🔭 Currently working on Codeable
+- 🌱 Learning more and more every day about Vanilla JS, React and CSS, as well as improving PHP.
+- 👯 I'm trying to learn a bit about WordPress, which is what I do as a profesional.
+- 💬 Check out my tools for everyday work: https://github.com/CarlosLongarela/uses
 
 ![Carlos github stats](https://github-readme-stats.vercel.app/api?username=carloslongarela&show_icons=true&theme=radical)
 
